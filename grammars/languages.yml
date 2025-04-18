@@ -1,0 +1,7 @@
+CXSetup:
+  type: programming
+  extensions:
+    - ".cxsetup"
+  tm_scope: source.cxsetup
+  ace_mode: text
+  color: "#f1c40f"
