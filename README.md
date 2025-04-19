@@ -25,5 +25,9 @@ Components (all of them are licensed under the MIT License):
 
 Parser at: cxsetup.py
 
-!!! DOCUMENTATION COMING SOON !!!
+-------------------------------
+
+Documentation available at: https://mf366-coding.github.io/documentation/cxsetup_2.0.html
+							(replace 2.0 with the version you'd like to see the documentation for)
+							(2.0 is the latest)
 ```
